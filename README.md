@@ -1,2 +1,2 @@
 # hackerR
-Hacker Rank algorithms
+Hacker Rank : 30 Days of Code Challenges
