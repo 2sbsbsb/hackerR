@@ -7,6 +7,10 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+/**
+ * 
+ * https://www.hackerrank.com/challenges/30-binary-numbers/problem
+ */
 public class Solution {
 
     static int factorial(int n) {

@@ -6,6 +6,10 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+/**
+ * 
+ * Solution to https://www.hackerrank.com/challenges/30-operators/problem
+ */
 public class Solution {
 
     public static void main(String[] args) {

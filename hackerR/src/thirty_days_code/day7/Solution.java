@@ -3,7 +3,10 @@ package thirty_days_code.day7;
 import java.io.*;
 import java.util.*;
 
-
+/**
+ * https://www.hackerrank.com/challenges/30-arrays/problem
+ *
+ */
 public class Solution {
 
     public static void main(String[] args) {

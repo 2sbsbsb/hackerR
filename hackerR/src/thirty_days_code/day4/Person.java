@@ -2,6 +2,10 @@ package thirty_days_code.day4;
 
 import java.util.Scanner;
 
+/**
+ * Solution to https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+ *
+ */
 public class Person {
 	private int age;
 
